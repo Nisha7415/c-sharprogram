@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.exe
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.deps.json
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.runtimeconfig.json
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.dll
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\bin\Debug\netcoreapp3.1\HierachicalInheritance.pdb
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.AssemblyInfo.cs
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.dll
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.pdb
+C:\Users\hp\source\repos\Oops_Concepts\HierachicalInheritance\obj\Debug\netcoreapp3.1\HierachicalInheritance.genruntimeconfig.cache
