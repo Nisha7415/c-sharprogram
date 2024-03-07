@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\hp\source\repos\Oops_Concepts\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache
